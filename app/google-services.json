@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344803569918",
+    "project_id": "ecommerce-cab24",
+    "storage_bucket": "ecommerce-cab24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344803569918:android:b7c8f577a7205facc675af",
+        "android_client_info": {
+          "package_name": "com.example.not"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344803569918-k6ak2vr2m0etce538c3pi16v7e18jris.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.not",
+            "certificate_hash": "c6e072c37e1bc0c22f43cb54c80c355a523abcb4"
+          }
+        },
+        {
+          "client_id": "344803569918-g50sovpdn9pp4cjphh3hdd3k8vmb1q63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfW05zUP5LXT4g2w4G8AFzkXooEIYUEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344803569918-g50sovpdn9pp4cjphh3hdd3k8vmb1q63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
